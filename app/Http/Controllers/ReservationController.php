@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Contract;
+use App\Models\Department;
 use App\Models\Doctor;
 use App\Models\Reservation;
 use App\Traits\Batoul;
